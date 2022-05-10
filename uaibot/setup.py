@@ -6,6 +6,6 @@ setup(
    description='A useful module',
    author='Vinicius Mariano and Johnata Brayan',
    author_email='foomail@foo.com',
-   packages=['foo'],  #same as name
+   # packages=['foo'],  #same as name
    install_requires=['quadprog', 'colour']
 )
